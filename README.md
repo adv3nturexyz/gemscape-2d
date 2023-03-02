@@ -28,7 +28,7 @@ Player {
         level: 1,
         xp: 0,
         race: "Human"
-        class: null,
+        class: "",
     },
     attributes: {
         strength: 10,
