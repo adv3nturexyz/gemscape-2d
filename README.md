@@ -49,7 +49,17 @@ Player {
         body: "",
         weapon: "",
         legs: "",
-    }
+    },
+    inventory: {
+        leather: 1,
+        "mixed seeds": 2,
+        wool: 3,
+        ...
+    },
+    tokens: {
+        gem: 0,
+        gold: 0,
+    },
 }
 ```
 
